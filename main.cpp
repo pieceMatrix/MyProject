@@ -1,6 +1,6 @@
 #include "sdt.h"
 #include <iostream>
-
+//это учебная программа
 int main() {
     int num1, num2;  
     std::cout << "Введите первое целое число: ";
