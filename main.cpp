@@ -11,5 +11,6 @@ int main() {
     std::cout << "Сумма введенных чисел: " << sum << std::endl;
     int diff = num1 - num2;
     std::cout << "Разность введенных чисел: " << diff << std::endl;
+
     return 0;
 }
